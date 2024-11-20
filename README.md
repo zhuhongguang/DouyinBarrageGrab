@@ -261,3 +261,4 @@
 <p>
 <img src="./imgs/微信.png" alt="微信支付" style="zoom:70%;border-radius: 5px;" />
 </p>
+
